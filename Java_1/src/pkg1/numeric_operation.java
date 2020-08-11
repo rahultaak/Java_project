@@ -35,7 +35,7 @@ public class numeric_operation {
 		
 		numeric_operation obj = new numeric_operation();
 		
-		int d =obj.sum(23, 2);
+		int d =obj.sum(10, 2);
 		int e =obj.sum(d, 2);
 		int f= obj.sub(e, 2);
 		int g = obj.mul(f, 2);
