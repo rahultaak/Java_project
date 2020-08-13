@@ -25,6 +25,7 @@ public class Constructor {
 	}
 	public static void main(String[] args) {
 		Constructor s = new Constructor(1,2,3);
+		
 	}
 
 }
