@@ -1,4 +1,4 @@
-package pkg1;
+package inheritance;
 
 public class Class2 extends Class1 {
 	public void n1()
